@@ -6,3 +6,6 @@
 - `git push` wypychamy zmiany na serwer (github.com)
 
 Commit 1 testowy
+
+
+Commit 2 testowy
