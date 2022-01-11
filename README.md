@@ -9,3 +9,5 @@ Commit 1 testowy
 
 
 Commit 2 testowy
+
+Commit 3 testowy
