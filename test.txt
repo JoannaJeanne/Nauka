@@ -1,1 +1,3 @@
 test
+
+zmiana treści wg STRY123
