@@ -4,3 +4,5 @@
 - `git add <tutaj pliki>` np `git add .` dodaje wszystkie zmiany do snapshota
 - `git commit -m "<tutaj opis commita>"` opisujemy jakie zmiany zrobiliśmy
 - `git push` wypychamy zmiany na serwer (github.com)
+
+Commit 1 testowy
