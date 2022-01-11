@@ -5,9 +5,6 @@
 - `git commit -m "<tutaj opis commita>"` opisujemy jakie zmiany zrobiliśmy
 - `git push` wypychamy zmiany na serwer (github.com)
 
-Commit 1 testowy
-
-
-Commit 2 testowy
-
-Commit 3 testowy
+- `git fetch`
+- `git pull`
+- `git merge [main]`- po git merge nazwa z jakiego brancha
